@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "This is intro to Node JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhaskar Kulshrestha",
+  "license": "ISC",
+  "dependencies": {
+    "komliheroes": "^0.0.1",
+    "marvel-characters": "^1.0.3",
+    "nodemon": "^2.0.20",
+    "superhero": "^2.12.4",
+    "superhero-name-library": "^1.2.2",
+    "superheroes": "^3.0.0"
+  }
+}
