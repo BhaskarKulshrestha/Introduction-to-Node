@@ -108,6 +108,11 @@ About to write to C:\Users\Bhaskar Kulshrestha\Desktop\intro-to-node\package.jso
 
 ## To install a module online
     npm install module Name
+    
+## To install all the modules that are present in the dependencies 
+    npm install
+    
+    this will install all the modules present in the dependencies , locally.
 
 ## use the installed module
 ```js
